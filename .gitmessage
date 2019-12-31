@@ -1,0 +1,17 @@
+Replace this line with a one-line meaningful summary
+
+Why this change id needed:
+# Explain why this change is needed
+
+What this change accomplishes:
+# Explain what this change does：
+
+# This is our company's default commit message template.
+# You should follow the following guidelines:
+# Separate subject from body with a blank line
+# Limit the subject line in 50 characters
+# Capitalize the subject line
+# Do not end the subject line with a period
+# Use the imperative mood in the subject line
+# Warp the body in 72 characters
+# Use the body explain the Why and What vs How
